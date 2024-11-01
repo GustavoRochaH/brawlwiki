@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com base na necessidade de informar novos jogadore
   
 ## Histórico do Projeto
 | Fase              | Data          | Descrição                |
-|-------------------|------------------------------------------|
+|-------------------|---------------|--------------------------|
 | Início do Projeto |  11/10/2024   | Organização e Separação  |
 | Fase 1            |  11/10/2024   | Desenvolvimento          |
 | Fase 2            |  28/10/2024   | Implementação            |
