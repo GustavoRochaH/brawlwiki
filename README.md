@@ -36,17 +36,17 @@ Esse projeto foi desenvolvido com base na necessidade de informar novos jogadore
 | Fase              | Data          | Descrição                |
 |-------------------|---------------|--------------------------|
 | Início do Projeto |  11/10/2024   | Organização e Separação  |
-| Fase 1            |  11/10/2024   | Desenvolvimento          |
-| Fase 2            |  28/10/2024   | Implementação            |
-| Fase 3            |  11/11/2024   | Continuação              |
-| Finalização       |  26/11/2024   | Finalização              |
+| Fase 1            |  21/10/2024   | Desenvolvimento          |
+| Fase 2            |  13/11/2024   | Implementação            |
+| Fase 3            |  25/11/2024   | Continuação              |
+| Finalização       |  05/12/2024   | Finalização              |
 
 ## Fotos e Prints
 
 
 
  ## Conclusão
-
+Em conclusão, o trabalho sobre Brawl Stars na Wikipédia destaca a importância do jogo e seu impacto no universo dos games. Por meio da análise de suas mecânicas, personagens e popularidade, fica evidente como ele conquistou uma comunidade diversificada e engajada. A produção de um site bem estruturado não só promove o conhecimento sobre o tema, mas também incentiva a valorização de conteúdos colaborativos e informativos, reforçando a relevância do Brawl Stars no cenário atual.
 
  ### Contado da Equipe
 
